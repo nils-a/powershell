@@ -592,6 +592,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "cmdlets/Add-PnPHomeSite.md",
+      "output": {
+        ".html": {
+          "relative_path": "cmdlets/Add-PnPHomeSite.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "cmdlets/Add-PnPHtmlPublishingPageLayout.md",
       "output": {
         ".html": {
@@ -2032,6 +2042,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "cmdlets/Get-PnPContainerType.md",
+      "output": {
+        ".html": {
+          "relative_path": "cmdlets/Get-PnPContainerType.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "cmdlets/Get-PnPContainerTypeConfiguration.md",
       "output": {
         ".html": {
@@ -2362,6 +2382,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "cmdlets/Get-PnPFileSensitivityLabelInfo.md",
+      "output": {
+        ".html": {
+          "relative_path": "cmdlets/Get-PnPFileSensitivityLabelInfo.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "cmdlets/Get-PnPFileSharingLink.md",
       "output": {
         ".html": {
@@ -2431,9 +2461,6 @@
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
       "type": "Conceptual",
       "source_relative_path": "cmdlets/Get-PnPFolderItem.md",
       "output": {
@@ -2639,6 +2666,26 @@
       "output": {
         ".html": {
           "relative_path": "cmdlets/Get-PnPLargeListOperationStatus.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "cmdlets/Get-PnPLibraryFileVersionBatchDeleteJobStatus.md",
+      "output": {
+        ".html": {
+          "relative_path": "cmdlets/Get-PnPLibraryFileVersionBatchDeleteJobStatus.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "cmdlets/Get-PnPLibraryFileVersionExpirationReportJobStatus.md",
+      "output": {
+        ".html": {
+          "relative_path": "cmdlets/Get-PnPLibraryFileVersionExpirationReportJobStatus.html"
         }
       },
       "version": ""
@@ -2919,6 +2966,26 @@
       "output": {
         ".html": {
           "relative_path": "cmdlets/Get-PnPPageComponent.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "cmdlets/Get-PnPPageLikedByInformation.md",
+      "output": {
+        ".html": {
+          "relative_path": "cmdlets/Get-PnPPageLikedByInformation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "cmdlets/Get-PnPPageSchedulingEnabled.md",
+      "output": {
+        ".html": {
+          "relative_path": "cmdlets/Get-PnPPageSchedulingEnabled.html"
         }
       },
       "version": ""
@@ -3315,6 +3382,26 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "cmdlets/Get-PnPSiteFileVersionBatchDeleteJobStatus.md",
+      "output": {
+        ".html": {
+          "relative_path": "cmdlets/Get-PnPSiteFileVersionBatchDeleteJobStatus.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "cmdlets/Get-PnPSiteFileVersionExpirationReportJobStatus.md",
+      "output": {
+        ".html": {
+          "relative_path": "cmdlets/Get-PnPSiteFileVersionExpirationReportJobStatus.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "cmdlets/Get-PnPSiteGroup.md",
       "output": {
         ".html": {
@@ -3415,10 +3502,10 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "cmdlets/Get-PnPSiteVersionPolicyProgress.md",
+      "source_relative_path": "cmdlets/Get-PnPSiteVersionPolicyStatus.md",
       "output": {
         ".html": {
-          "relative_path": "cmdlets/Get-PnPSiteVersionPolicyProgress.html"
+          "relative_path": "cmdlets/Get-PnPSiteVersionPolicyStatus.html"
         }
       },
       "version": ""
@@ -3735,10 +3822,30 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "cmdlets/Get-PnPTenantInternalSetting.md",
+      "output": {
+        ".html": {
+          "relative_path": "cmdlets/Get-PnPTenantInternalSetting.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "cmdlets/Get-PnPTenantRecycleBinItem.md",
       "output": {
         ".html": {
           "relative_path": "cmdlets/Get-PnPTenantRecycleBinItem.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "cmdlets/Get-PnPTenantRestrictedSearchMode.md",
+      "output": {
+        ".html": {
+          "relative_path": "cmdlets/Get-PnPTenantRestrictedSearchMode.html"
         }
       },
       "version": ""
@@ -4505,6 +4612,26 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "cmdlets/New-PnPLibraryFileVersionBatchDeleteJob.md",
+      "output": {
+        ".html": {
+          "relative_path": "cmdlets/New-PnPLibraryFileVersionBatchDeleteJob.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "cmdlets/New-PnPLibraryFileVersionExpirationReportJob.md",
+      "output": {
+        ".html": {
+          "relative_path": "cmdlets/New-PnPLibraryFileVersionExpirationReportJob.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "cmdlets/New-PnPList.md",
       "output": {
         ".html": {
@@ -4579,6 +4706,26 @@
       "output": {
         ".html": {
           "relative_path": "cmdlets/New-PnPSiteCollectionTermStore.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "cmdlets/New-PnPSiteFileVersionBatchDeleteJob.md",
+      "output": {
+        ".html": {
+          "relative_path": "cmdlets/New-PnPSiteFileVersionBatchDeleteJob.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "cmdlets/New-PnPSiteFileVersionExpirationReportJob.md",
+      "output": {
+        ".html": {
+          "relative_path": "cmdlets/New-PnPSiteFileVersionExpirationReportJob.html"
         }
       },
       "version": ""
@@ -5335,6 +5482,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "cmdlets/Remove-PnPLibraryFileVersionBatchDeleteJob.md",
+      "output": {
+        ".html": {
+          "relative_path": "cmdlets/Remove-PnPLibraryFileVersionBatchDeleteJob.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "cmdlets/Remove-PnPList.md",
       "output": {
         ".html": {
@@ -5649,6 +5806,16 @@
       "output": {
         ".html": {
           "relative_path": "cmdlets/Remove-PnPSiteDesignTask.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "cmdlets/Remove-PnPSiteFileVersionBatchDeleteJob.md",
+      "output": {
+        ".html": {
+          "relative_path": "cmdlets/Remove-PnPSiteFileVersionBatchDeleteJob.html"
         }
       },
       "version": ""
@@ -7265,6 +7432,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "cmdlets/Set-PnPTenantRestrictedSearchMode.md",
+      "output": {
+        ".html": {
+          "relative_path": "cmdlets/Set-PnPTenantRestrictedSearchMode.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "cmdlets/Set-PnPTenantSite.md",
       "output": {
         ".html": {
@@ -7559,6 +7736,16 @@
       "output": {
         ".html": {
           "relative_path": "cmdlets/Uninstall-PnPApp.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "cmdlets/Unlock-PnPSensitivityLabelEncryptedFile.md",
+      "output": {
+        ".html": {
+          "relative_path": "cmdlets/Unlock-PnPSensitivityLabelEncryptedFile.html"
         }
       },
       "version": ""
